@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Redirect
+title: CV
 description: 
-permalink: /cv-redirect/
+permalink: /cv/
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
-Testing a link to the current CV project!
+You can download the latest version from [Overleaf](https://www.overleaf.com/read/jzhpfbnvsbvs).
 
 <object data="../assets/pdf/Emily-Jensen-CV-15Aug2022.pdf" width="1000" height="1000" type='application/pdf'></object>
