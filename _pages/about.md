@@ -14,10 +14,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi there, I'm Emily!
+Hello!
 
-I'm a Ph.D. Candidate in the [Department of Computer Science](https://colorado.edu/cs) and the [Institute of Cognitive Science](https://colorado.edu/ics) at CU Boulder advised by [Sriram Sankaranarayanan](https://home.cs.colorado.edu/~srirams/index.html) and [Brad Hayes](http://www.bradhayes.info/). In general, I'm interested in using autonomous systems to teach people complex tasks. You can read a formal write-up of my work on my [docs page](https://emilykjensen.com/docs/).
+I'm an Assistant Professor of [Computer Science at Franklin & Marshall College](https://fandm.edu/fields-of-study/computer-science/index.html). I received a joint Ph.D. in Computer Science and Cognitive Science from the University of Colorado Boulder.
 
-One of my goals is to maintain a life outside of academia; depending on the day, you can find me drinking tea, reading dystopian novels, knitting, running or hitting the trails (sometimes at the same time), and messing around on my piano. I also sporadically post an [open notebook of sorts](https://emilykjensen.com/blog/) on this site to show that goals, motivation, and progress through academia (and life) isn't anywhere close to linear.
+My research focuses on building adaptive training systems that help people learn complex psychomotor tasks (these require both mental and physical coordination). I draw inspiration from educational theories and pair these with computational tools from intelligent tutoring systems and formal methods research.
 
-As someone with interests at the intersection of a lot of different fields, I really struggled through the graduate school application process. On top of that, I didn't know what to look for in a program or what the daily life of a graduate student looked like. If you have questions about these as well, I would be [happy to chat](mailto:emily.jensen@colorado.edu) about my experience or connect you with someone else.
+I want to do my part in promoting transparency about the academic career path. To support this, I've posted the [documents](https://emilykjensen.com/docs/) I wrote for my job applications. I also sporadically post an [open notebook of sorts](https://emilykjensen.com/blog/) on this site to show that goals, motivation, and progress through academia (and life) isn't anywhere close to linear. As someone with interests at the intersection of a lot of different fields, I struggled through the graduate school application process. I didn't know what to look for in a program or what the daily life of a graduate student looked like. If you have questions about these as well, I would be [happy to chat](mailto:ejensen@fandm.edu) about my experience or connect you with someone else.
